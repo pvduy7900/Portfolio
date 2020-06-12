@@ -2,3 +2,9 @@
   height: 1000nx;
   width: auto;
 }
+ul{
+  overflow:hidden;
+  }
+  li{
+  display:inline-block;
+  }
